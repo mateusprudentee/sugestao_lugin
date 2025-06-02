@@ -31,7 +31,7 @@
       <li> Uso indiscriminado de hacks e vantagens ilegais</li>
       <li> Dificuldade em identificar jogadores problemáticos</li>
     </ul>
-    <span style="color: #2b2b2b;">A vinculação de um número de telefone auxilia na separação de jogadores ceom intenção explícita de trapacear e de quem possui interesse justo na jogabilidade. Por um número de telefone ser apenas possível vincular a uma conta e <u>não ter como utilizar o mesmo número em 2 contas diferentes</u>, jogadores devem verificar tal situação antes de trapacear em partidas. </span>
+    <span style="color: #2b2b2b;">A vinculação de um número de telefone auxilia na separação de jogadores com intenção explícita de trapacear e de quem possui interesse justo na jogabilidade. Por um número de telefone ser apenas possível vincular a uma conta e <u>não ter como utilizar o mesmo número em 2 contas diferentes</u>, jogadores devem verificar tal situação antes de trapacear em partidas. </span>
 
     <hr style="border: 1px solid #f0f0f0; margin: 20px 0;">
     
